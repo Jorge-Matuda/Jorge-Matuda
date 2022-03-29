@@ -1,4 +1,4 @@
-name: Jorge-Matuda
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
